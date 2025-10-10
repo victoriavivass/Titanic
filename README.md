@@ -11,11 +11,12 @@ All analysis and modeling were implemented in **R**, using:
 
 ## Repository Structure
 
+```text
 ├── EDA/ # R scripts for exploratory analysis
 ├── supervised-ml/ # R scripts for supervised learning
 ├── .gitignore
 └── README.md # (this file)
-
+```
 
 ---
 
