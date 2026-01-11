@@ -1,4 +1,4 @@
-# 🚢 Titanic — Exploratory Data Analysis & Supervised Machine Learning (R)
+# Titanic — Exploratory Data Analysis & Supervised Machine Learning (R)
 
 This repository unifies two projects based on the classic **Titanic Kaggle dataset**:  
 - **EDA**: Exploratory Data Analysis of passengers and survival patterns.  
@@ -175,6 +175,6 @@ lapply(pkgs, library, character.only = TRUE)
 - Variable importance line plots
 - Decision tree visualization (rpart.plot::prp)
 
-## 👩‍💻 Author
+## Author
 
 Victoria Vivas
